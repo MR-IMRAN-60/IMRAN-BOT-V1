@@ -6,7 +6,7 @@ module.exports.config = {
   name: "wallpaper",
   version: "1.0.1",
   permission: 0,
-  prefix: false,
+  prefix: true,
   credits: "Imran",
   description: "hd image",
   category: "user",
