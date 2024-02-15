@@ -4,7 +4,7 @@ module.exports.config = {
   name: "tagadmin",
   version: "1.0.2",
   permission: 0,
-  prefix: false,
+  prefix: true,
   credits: "Imran",
   description: "info",
   category: "user",
